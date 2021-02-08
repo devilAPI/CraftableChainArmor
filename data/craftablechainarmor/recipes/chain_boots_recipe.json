@@ -1,0 +1,22 @@
+{
+  "group": "craftablechainarmor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "minecraft:chain"
+    }
+  ],
+  "result": {
+    "item": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}
